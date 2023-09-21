@@ -3,7 +3,7 @@
 ## Description
 - This is shows how to demonstrate how these tags affect content and layout on a web page.
 ## Activities
-- activity1.html
+- activity1
 ## Members
 * Catherine Groyon
 * Shajara Mae Ronao
