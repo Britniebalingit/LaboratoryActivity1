@@ -1,0 +1,92 @@
+* {
+    margin: 6px;
+    padding: 3px;
+    border-color: rgb(27, 1, 1);
+  }
+  body{
+    background-color: burlywood;
+  }
+  
+  h1 {
+    color: rgb(187, 11, 93, 0.856);
+    font-size: 115px;
+    display: inline;
+    font-family: verdana;
+    margin: 6px;
+    border-color: antiquewhite;
+    padding: 2px;
+ 
+    
+  }
+  .name{
+    color: rgb(218, 193, 160);
+    font-size: 45px;
+    font-family: 'Apple Chancery';
+    padding-left: 3px;
+    padding-top: 20px;
+    float: left
+  }
+  ul {
+    list-style-type: none;
+    margin: 2px;
+    padding: 4px;
+    overflow: hidden;
+    background-color: rgb(187, 151, 107);
+  }
+  li {
+    float: right;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 50px;
+    font-size: 30px;
+    padding-right: 20px;
+  }
+  li a {
+    display: flex;
+    color: rgb(133, 110, 80);
+    font-weight: bold;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    }
+  li a:hover {
+    color: beige;
+    }
+
+
+    header {
+        background-color: rgb(65, 24, 24);
+        font-family: courier;
+        font-size: 160%;
+        padding-bottom: 0%;
+
+    }
+    div {
+      background-color: sandybrown;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 160%;
+      padding-bottom: 0%;
+    }
+    .web {
+        color: #000;
+        position: relative;
+        margin-right: 10px;
+        margin-bottom: 5px;
+    }
+    span {
+      color: rgba(19, 67, 138, 0.884);
+      position: inherit;
+      margin-bottom: 0%;
+      font-feature-settings: "aalt";
+    }
+    
+    .description {
+      font-style: oblique;
+      text-decoration: dotted;
+      margin-top: 5px;
+      border: #fff 1px solid;
+      padding: 20px;
+      margin: 20px;
+      
+
+    }
