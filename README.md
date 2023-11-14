@@ -6,6 +6,7 @@
 * [Activity1](https://github.com/Britniebalingit/LaboratoryActivity1/blob/main/activity1.html)
 * [Activity2](https://britniebalingit.github.io/LaboratoryActivity1/)
 * [Activity3](https://github.com/Britniebalingit/LaboratoryActivity1/blob/main/activity-3.html)
+* [Activity4](https://github.com/Britniebalingit/LaboratoryActivity1/blob/main/activity4.html)
 ## Members
 * Catherine Groyon
 * Shajara Mae Ronao
